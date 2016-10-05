@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 9252875736f212f4c80b7e86feafa96b
+timeCreated: 1470217206
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CATRigRFinger11
+    100002: CATRigRFinger11 1
+    100004: CATRigRFinger12
+    100006: CATRigRFinger12 1
+    100008: CATRigRFinger21
+    100010: CATRigRFinger21 1
+    100012: CATRigRFinger22
+    100014: CATRigRFinger22 1
+    100016: CATRigRFinger31
+    100018: CATRigRFinger31 1
+    100020: CATRigRFinger32
+    100022: CATRigRFinger32 1
+    100024: CATRigRFinger41
+    100026: CATRigRFinger41 1
+    100028: CATRigRFinger42
+    100030: CATRigRFinger42 1
+    100032: CATRigRFinger51
+    100034: CATRigRFinger51 1
+    100036: CATRigRFinger52
+    100038: CATRigRFinger52 1
+    100040: Chest
+    100042: Head
+    100044: //RootNode
+    100046: human
+    100048: LFoot
+    100050: LForeArm
+    100052: LForeLeg
+    100054: LHand
+    100056: LShoulder
+    100058: LUpperArm
+    100060: LUpperLeg
+    100062: Neck
+    100064: Pelvis
+    100066: RFoot
+    100068: RForeArm
+    100070: RForeLeg
+    100072: RHand
+    100074: RShoulder
+    100076: RUpperArm
+    100078: RUpperLeg
+    100080: Spine
+    100082: "CATRigL\u817F\u5E73\u53F0"
+    100084: "CATRigR\u817F\u5E73\u53F0"
+    100086: Character001
+    100088: CATRigLFinger11
+    100090: CATRigLFinger12
+    100092: CATRigLFinger21
+    100094: CATRigLFinger22
+    100096: CATRigLFinger31
+    100098: CATRigLFinger32
+    100100: CATRigLFinger41
+    100102: CATRigLFinger42
+    100104: CATRigLFinger51
+    100106: CATRigLFinger52
+    400000: CATRigRFinger11
+    400002: CATRigRFinger11 1
+    400004: CATRigRFinger12
+    400006: CATRigRFinger12 1
+    400008: CATRigRFinger21
+    400010: CATRigRFinger21 1
+    400012: CATRigRFinger22
+    400014: CATRigRFinger22 1
+    400016: CATRigRFinger31
+    400018: CATRigRFinger31 1
+    400020: CATRigRFinger32
+    400022: CATRigRFinger32 1
+    400024: CATRigRFinger41
+    400026: CATRigRFinger41 1
+    400028: CATRigRFinger42
+    400030: CATRigRFinger42 1
+    400032: CATRigRFinger51
+    400034: CATRigRFinger51 1
+    400036: CATRigRFinger52
+    400038: CATRigRFinger52 1
+    400040: Chest
+    400042: Head
+    400044: //RootNode
+    400046: human
+    400048: LFoot
+    400050: LForeArm
+    400052: LForeLeg
+    400054: LHand
+    400056: LShoulder
+    400058: LUpperArm
+    400060: LUpperLeg
+    400062: Neck
+    400064: Pelvis
+    400066: RFoot
+    400068: RForeArm
+    400070: RForeLeg
+    400072: RHand
+    400074: RShoulder
+    400076: RUpperArm
+    400078: RUpperLeg
+    400080: Spine
+    400082: "CATRigL\u817F\u5E73\u53F0"
+    400084: "CATRigR\u817F\u5E73\u53F0"
+    400086: Character001
+    400088: CATRigLFinger11
+    400090: CATRigLFinger12
+    400092: CATRigLFinger21
+    400094: CATRigLFinger22
+    400096: CATRigLFinger31
+    400098: CATRigLFinger32
+    400100: CATRigLFinger41
+    400102: CATRigLFinger42
+    400104: CATRigLFinger51
+    400106: CATRigLFinger52
+    2300000: human
+    3300000: human
+    4300000: human
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: human
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

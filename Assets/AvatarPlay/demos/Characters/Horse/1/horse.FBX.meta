@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 11b4600679f24f4458228465561c35ff
+timeCreated: 1468412807
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CATRigHead
+    100002: CATRigHub002
+    100004: CATRigLBackLeg1
+    100006: CATRigLBackLeg2
+    100008: "CATRigLBackLeg\u5E73\u53F0"
+    100010: "CATRigLBackLeg\u8E1D\u90E8"
+    100012: CATRigLFrontLeg1
+    100014: CATRigLFrontLeg2
+    100016: "CATRigLFrontLeg\u5E73\u53F0"
+    100018: "CATRigLFrontLeg\u8E1D\u90E8"
+    100020: CATRigNeck1
+    100022: CATRigNeck2
+    100024: CATRigPevils
+    100026: "CATRigR\u817F1"
+    100028: "CATRigR\u817F1 1"
+    100030: "CATRigR\u817F2"
+    100032: "CATRigR\u817F2 1"
+    100034: "CATRigR\u817F\u5E73\u53F0"
+    100036: "CATRigR\u817F\u5E73\u53F0 1"
+    100038: "CATRigR\u817F\u8E1D\u90E8"
+    100040: "CATRigR\u817F\u8E1D\u90E8 1"
+    100042: CATRigSpine1
+    100044: CATRigSpine2
+    100046: CATRigSpine3
+    100048: CATRigTail1
+    100050: CATRigTail2
+    100052: CATRigTail3
+    100054: CATRigTail4
+    100056: CATRigTail5
+    100058: Character001
+    100060: //RootNode
+    100062: horse
+    100064: Particle View01
+    100066: CATRigRBackLeg1
+    100068: CATRigRBackLeg2
+    100070: "CATRigRBackLeg\u5E73\u53F0"
+    100072: "CATRigRBackLeg\u8E1D\u90E8"
+    100074: CATRigRFrontLeg1
+    100076: CATRigRFrontLeg2
+    100078: "CATRigRFrontLeg\u5E73\u53F0"
+    100080: "CATRigRFrontLeg\u8E1D\u90E8"
+    100082: Head
+    100084: LBackLeg1
+    100086: LBackLeg2
+    100088: LBackLegToe
+    100090: LFrontLeg1
+    100092: LFrontLeg2
+    100094: LFrontLegToe
+    100096: Neck1
+    100098: Neck2
+    100100: Pevils
+    100102: RBackLeg1
+    100104: RBackLeg2
+    100106: RBackLegToe
+    100108: RFrontLeg1
+    100110: RFrontLeg2
+    100112: RFrontLegToe
+    100114: Spine1
+    100116: Spine2
+    100118: Spine3
+    100120: Tail1
+    100122: Tail2
+    100124: Tail3
+    100126: Tail4
+    100128: Tail5
+    400000: CATRigHead
+    400002: CATRigHub002
+    400004: CATRigLBackLeg1
+    400006: CATRigLBackLeg2
+    400008: "CATRigLBackLeg\u5E73\u53F0"
+    400010: "CATRigLBackLeg\u8E1D\u90E8"
+    400012: CATRigLFrontLeg1
+    400014: CATRigLFrontLeg2
+    400016: "CATRigLFrontLeg\u5E73\u53F0"
+    400018: "CATRigLFrontLeg\u8E1D\u90E8"
+    400020: CATRigNeck1
+    400022: CATRigNeck2
+    400024: CATRigPevils
+    400026: "CATRigR\u817F1"
+    400028: "CATRigR\u817F1 1"
+    400030: "CATRigR\u817F2"
+    400032: "CATRigR\u817F2 1"
+    400034: "CATRigR\u817F\u5E73\u53F0"
+    400036: "CATRigR\u817F\u5E73\u53F0 1"
+    400038: "CATRigR\u817F\u8E1D\u90E8"
+    400040: "CATRigR\u817F\u8E1D\u90E8 1"
+    400042: CATRigSpine1
+    400044: CATRigSpine2
+    400046: CATRigSpine3
+    400048: CATRigTail1
+    400050: CATRigTail2
+    400052: CATRigTail3
+    400054: CATRigTail4
+    400056: CATRigTail5
+    400058: Character001
+    400060: //RootNode
+    400062: horse
+    400064: Particle View01
+    400066: CATRigRBackLeg1
+    400068: CATRigRBackLeg2
+    400070: "CATRigRBackLeg\u5E73\u53F0"
+    400072: "CATRigRBackLeg\u8E1D\u90E8"
+    400074: CATRigRFrontLeg1
+    400076: CATRigRFrontLeg2
+    400078: "CATRigRFrontLeg\u5E73\u53F0"
+    400080: "CATRigRFrontLeg\u8E1D\u90E8"
+    400082: Head
+    400084: LBackLeg1
+    400086: LBackLeg2
+    400088: LBackLegToe
+    400090: LFrontLeg1
+    400092: LFrontLeg2
+    400094: LFrontLegToe
+    400096: Neck1
+    400098: Neck2
+    400100: Pevils
+    400102: RBackLeg1
+    400104: RBackLeg2
+    400106: RBackLegToe
+    400108: RFrontLeg1
+    400110: RFrontLeg2
+    400112: RFrontLegToe
+    400114: Spine1
+    400116: Spine2
+    400118: Spine3
+    400120: Tail1
+    400122: Tail2
+    400124: Tail3
+    400126: Tail4
+    400128: Tail5
+    2300000: horse
+    3300000: horse
+    4300000: horse
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: horse
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

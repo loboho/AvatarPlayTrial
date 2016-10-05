@@ -1,0 +1,13 @@
+*.suo
+*.ncb
+*.user
+*.[oa]
+*.sln
+*.userprefs
+!lib.a
+*~
+Temp/
+temp/
+/Library
+/ProjectSettings
+.svn/
